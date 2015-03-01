@@ -3,7 +3,7 @@
 Plugin Name: MobiDevices Search URL
 Plugin URI: http://mobidevices.ru
 Description: SEO-плагин для автоматического преобразования URL страниц поиска с формата <a href="http://mobidevices.ru/?s=iPhone">http://mobidevices.ru/?s=iPhone</a> на <a href="http://mobidevices.ru/search/iPhone">http://mobidevices.ru/search/iPhone</a>, разработанный порталом <a href="http://mobidevices.ru">MobiDevices</a>.
-Version: 1.1
+Version: 1.2
 Author: MobiDevices Soft
 Author URI: http://mobidevices.ru
 Author Email: md@mobidevices.ru
