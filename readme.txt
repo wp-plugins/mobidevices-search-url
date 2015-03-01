@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 SEO-плагин для преобразования URL страниц поиска с формата <a href="http://mobidevices.ru/?s=iPhone">http://mobidevices.ru/?s=iPhone</a> на <a href="http://mobidevices.ru/search/iPhone">http://mobidevices.ru/search/iPhone</a>, разработанный порталом <a href="http://mobidevices.ru">MobiDevices</a>.
 
-MobiDevices Search URL, в отличии от похожих решений, автоматически делает 301-редирект со старых страниц поиска на новые. Также плагин поддерживает работу с пагинацией. Примечательно, что при обращении к <a href="http://mobidevices.ru/search/iPhone/1">http://mobidevices.ru/search/iPhone/1</a> произойдет редирект на <a href="http://mobidevices.ru/search/iPhone">http://mobidevices.ru/search/iPhone</a>
+MobiDevices Search URL, в отличии от похожих решений, автоматически делает 301-редирект со старых страниц поиска на новые. Также плагин поддерживает работу с пагинацией. Примечательно, что при обращении к <a href="http://mobidevices.ru/search/iPhone/page/1">http://mobidevices.ru/search/iPhone/page/1</a> произойдет редирект на <a href="http://mobidevices.ru/search/iPhone">http://mobidevices.ru/search/iPhone</a>
 
 В плагине нет никаких настроек, его достаточно всего лишь включить и он будет выполнять свое предназначение.
 
